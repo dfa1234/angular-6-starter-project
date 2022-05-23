@@ -1,0 +1,15 @@
+img {
+  display: block;
+  margin: 10px auto;
+  max-width: 50vw;
+}
+
+div {
+  text-align: center;
+}
+
+footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
